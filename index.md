@@ -32,7 +32,7 @@ The app is not directed to children under 13 and does not knowingly collect data
 We may update this policy. The "Last updated" date above reflects the latest version.
 
 ### Contact
-Questions? Contact: **anil.karabulut.dev@gmail.com**
+Questions? Contact: **dailysoftwares.help@gmail.com**
 
 ---
 
