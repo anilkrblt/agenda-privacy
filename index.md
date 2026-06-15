@@ -64,4 +64,4 @@ Uygulama 13 yaş altı çocuklara yönelik değildir ve bilerek onlardan veri to
 Bu politikayı güncelleyebiliriz. Yukarıdaki "Son güncelleme" tarihi en güncel sürümü yansıtır.
 
 ### İletişim
-Sorular için: **anil.karabulut.dev@gmail.com**
+Sorular için: **dailysoftwares.help@gmail.com**
